@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @grizhe (Kyle)
+- 👀 I’m interested in Street Cars (2017 WRX WRBlue), Cyber Security, and Computer Science.
+- 🌱 I’m currently learning Python, Java, Json, and Cyber Security / Ethical Hacking :)
+- 💞️ I’m looking to collaborate on any beginner pythong project!
+- 📫 How to reach me discord and email! (grizhe#1737, grizhebusiness@gmail.com)
