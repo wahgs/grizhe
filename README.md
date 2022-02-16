@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @grizhe (Kyle)
 - 👀 I’m interested in Cars (2017 WRX WRB), Cyber Security, and Computer Science.
 - 🌱 I’m currently learning Python, Java, Json, and Cyber Security / Ethical Hacking :)
-- 💞️ I’m looking to collaborate on any beginner python project!
-- 📫 How to reach me discord and/or email! (grizhe#1737, grizhebusiness@gmail.com)
+- 📫 How to reach me! grizhebusiness@gmail.com
