@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @grizhe (Kyle)
 - 👀 I’m interested in Cars (2017 WRX WRB), Cyber Security, and Computer Science.
-- 🌱 I’m currently learning Python, Java, Json, and Cyber Security / Ethical Hacking :)
+- 🌱 I’m currently learning Ethical Hacking, Python, Java, JS, Ruby, and AWS and Docker
 - 📫 How to reach me! grizhebusiness@gmail.com
